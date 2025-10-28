@@ -7,13 +7,13 @@
 
 | Week | Date            | Activity                                                                 | Estimated Hours |
 |------|-----------------|--------------------------------------------------------------------------|-----------------|
-| 7    | 25 June-02 Jul, 2024 | Draft Methodology & Requirements                                    | 8               |
-| 8    | 03-10 Jul, 2024 | Supervisor Meeting 2 (Review Critical Analysis & Methodology)            | 5               |
-| 9    | 11-18 Jul, 2024 | API Planning (MVP, Firebase, Retrofit)                                   | 12              |
-| 10   | 19-26 Jul, 2024 | Database & API Integration Design                                        | 10              |
-| 11   | 26 Jul-02 Aug, 2024 | Finalize Development Plan & Flow                                     | 8               |
-| 15   | 29 Aug-05 Sep, 2024 | API Integration & Firebase Notifications                             | 12              |
-| 16   | 06-13 Sep, 2024 | Testing, Debugging & Supervisor Meeting 4 (Prototype Demo)               | 15              |
+| 1    | 25 June-02 Jul, 2024 | Draft Methodology & Requirements                                    | 8               |
+| 2    | 03-10 Jul, 2024 | Supervisor Meeting 2 (Review Critical Analysis & Methodology)            | 5               |
+| 3    | 11-18 Jul, 2024 | API Planning (MVP, Firebase, Retrofit)                                   | 12              |
+| 4   | 19-26 Jul, 2024 | Database & API Integration Design                                        | 10              |
+| 5   | 26 Jul-02 Aug, 2024 | Finalize Development Plan & Flow                                     | 8               |
+| 6   | 29 Aug-05 Sep, 2024 | API Integration & Firebase Notifications                             | 12              |
+| 7   | 06-13 Sep, 2024 | Testing, Debugging & Supervisor Meeting 4 (Prototype Demo)               | 15              |
 
 ---
 
